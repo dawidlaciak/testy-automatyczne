@@ -4,7 +4,7 @@
   "description": "automatyzacja testow w cypress",
   "main": "index.js",
   "scripts": {
-    "checkbox": "cypress run --spec cypress/e2e/checkbox.cy.js"
+    "checkbox": "cypress run --spec cypress//e2e//checkbox.cy.js"
   },
   "keywords": [
     "automatyzacja",
